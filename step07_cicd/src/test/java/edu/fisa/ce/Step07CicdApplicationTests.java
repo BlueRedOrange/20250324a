@@ -10,7 +10,7 @@ class Step07CicdApplicationTests {
 
 	@Test
 	void contextLoads() {
-		int result = 12 +3;
+		int result = 1 +3;
 		System.out.println("**********비교전");
 		assertEquals(15,result);
 		System.out.println("**********비교후");
